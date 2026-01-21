@@ -8,6 +8,7 @@ public class ResumeAiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ResumeAiApplication.class, args);
+
 	}
 
 }
