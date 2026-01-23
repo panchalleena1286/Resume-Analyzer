@@ -1,4 +1,4 @@
-package com.example.resume.ResumeAiApplication;
+package com.example.resumeai;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
