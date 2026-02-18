@@ -10,4 +10,6 @@ public class User {
     private String contactNo;
 
     private String address;
+
+    private String DOB;
 }
