@@ -4,4 +4,6 @@ public class JobDescription {
 
     private String desc;
 
+    private String resumeName;
+
 }
