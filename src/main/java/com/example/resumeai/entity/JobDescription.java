@@ -6,4 +6,6 @@ public class JobDescription {
 
     private String resumeName;
 
+    private int resumenumber;
+
 }
