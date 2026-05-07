@@ -10,6 +10,8 @@ public class JobDescription {
 
     private Date date;
 
+    private String location;
+
     private int resumenumber;
 
 }
